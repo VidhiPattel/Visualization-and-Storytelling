@@ -20,8 +20,8 @@ To make the map more insightful, I added a heatmap layer to highlight areas with
 ## Final Output
 ![Image1](assests/img/image(1).jpg)
 
-![Image2](/assests/img/image(2).jpg)
+![Image2](assests/img/image(2).jpg)
 
-![Image3](/assests/img/image(3).jpg)
+![Image3](assests/img/image(3).jpg)
 
-![Image4](/assests/img/image(4).jpg)
+![Image4](assests/img/image(4).jpg)
