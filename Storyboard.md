@@ -14,9 +14,9 @@ In developing my data story on climatic migration and sea-level rise, I began wi
 ![Iteration 1](assests/img/Storyboard_it_1&2.jpg)
 
 ## Final Output
-![Image1](/assests/img/Climatic%20Migration/Climatic%20Migration-1.jpg)
-![Image2](/assests/img/Climatic%20Migration/Climatic%20Migration-2.jpg)
-![Image3](/assests/img/Climatic%20Migration/Climatic%20Migration-3.jpg)
-![Image4](/assests/img/Climatic%20Migration/Climatic%20Migration-4.jpg)
-![Image5](/assests/img/Climatic%20Migration/Climatic%20Migration-5.jpg)
+![Image1](/assests/img/ClimaticMigration/ClimaticMigration-1.jpg))
+![Image2](/assests/img/ClimaticMigration/ClimaticMigration-2.jpg)
+![Image3](/assests/img/ClimaticMigration/ClimaticMigration-3.jpg)
+![Image4](/assests/img/ClimaticMigration/ClimaticMigration-4.jpg)
+![Image5](/assests/img/ClimaticMigration/ClimaticMigration-5.jpg)
 ![Image6](/assests/img/Climatic%20Migration/Climatic%20Migration-6.jpg)
