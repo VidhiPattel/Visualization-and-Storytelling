@@ -18,7 +18,7 @@ In the first iteration of my project on the 1854 cholera outbreak in Soho, Londo
 To make the map more insightful, I added a heatmap layer to highlight areas with high death densities and created a bubble chart to represent the relationship between death counts and geographic coordinates. I incorporated additional layers to provide contextual information, such as a grave symbol for Baby Frances’s location, a black pin for the Broad Street Pump, and a green-outlined building icon for the brewery, which served as an anomaly during the outbreak. Pop-up information was added for these points to explain their significance. Through this iteration, I effectively mapped critical elements like death distributions, key landmarks, and contextual historical information, creating a visually engaging and informative representation of the cholera outbreak.
 
 ## Final Output
-![Image1](/assests/img/image(1).jpg)
+![Image1](assests/img/image(1).jpg)
 
 ![Image2](/assests/img/image(2).jpg)
 
