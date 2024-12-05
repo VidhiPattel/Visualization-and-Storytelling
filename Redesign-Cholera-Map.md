@@ -19,6 +19,9 @@ To make the map more insightful, I added a heatmap layer to highlight areas with
 
 ## Final Output
 ![Image1](/assests/img/image%20(1).png)
+
 ![Image2](/assests/img/image%20(2).png)
+
 ![Image3](/assests/img/image%20(3).png)
+
 ![Image4](/assests/img/image%20(4).png)
