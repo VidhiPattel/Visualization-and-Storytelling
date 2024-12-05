@@ -1,4 +1,4 @@
-# Visualization-and-Storytelling-Portfolio
+# Visualization and Storytelling Portfolio
 Welcome to my Data Visualization and Storytelling Portfolio! Here I am going to share the visualization works that I have prepared during the Fall semester. 
 
 ## About Me
