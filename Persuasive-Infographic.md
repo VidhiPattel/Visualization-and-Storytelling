@@ -9,4 +9,4 @@ The creation of this infographic began with thorough research and data gathering
 In **Iteration 2**, the structure of the infographic was designed using Canva, with a focus on presenting complex data in a clear, visually appealing way. Charts and timelines were introduced to illustrate emission trends from 2018 to 2022, while sections were dedicated to the environmental and societal impacts of corporate emissions. **Iteration 3** involved refining these visuals and enhancing storytelling by adding elements such as a bubble chart identifying corporate emission leaders, highlighting at-risk cities, and including strong, action-oriented messages like "Sustainability is no longer optional." The final design achieved a balance between engaging visuals and powerful messaging, urging corporations to align growth with environmental responsibility.
 
 ## Final Output
-![Infographic](/assests/img/Vidhi-Patel-100972738-Infographic%20-1.png)
+![Infographic](/assests/img/Vidhi-Patel-100972738-Infographic%20-1.jpg)
