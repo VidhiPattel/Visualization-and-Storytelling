@@ -16,6 +16,7 @@ This portfolio showcases my journey through the Data Visualization and Storytell
 ### Storyboard
 - Created a storyboard on the topic **"Climatic Migration: Rising Sea Level** using Miro and PowerPoint in three iterations.
 - Used scrollytelling and narrative method to tell the story of peoples who have to be displaced during to calamities.
+  
 [Storyboard](Storyboard.md)
    
 
@@ -23,10 +24,16 @@ This portfolio showcases my journey through the Data Visualization and Storytell
 - Redesigned the notable **"Snow's Cholera Map"** Using ArcGis.
 - The main aim was to add a depth to the Cholera Map. Incorporated details that were not visible using interative methods.
 
+[Cholera Map](Redesign-Cholera-Map.md)
+
 ### Persuasive Infographic
 - Created an infographic on **"A Warming World"**. It focuses on companies emitting Greenhouse gases (GHG) and their role in warming the Earth.
 - It tells about the top profitable companies emitting levels of GHG across the World.
 
+[Infographic](Persuasive-Infographic.md)
+
 ### Data Story 
 - It was a group project developed on the topic **"Durham’s Climate Path to 2030: Data-Driven Action for Achieving It"**.
 - The infographic is createdd using Flourish and Canvas.
+
+[Data Story](Data-Story.md)
