@@ -4,7 +4,7 @@ Welcome to my Data Visualization and Storytelling Portfolio! Here I am going to 
 
 Hi! I'm Vidhi Patel, a Master's student in Business Analytics and AI program at Ontario Tech University, passionate about turning data into actionable insights through the power of visualization and storytelling.
 
-This portfolio showcases my journey through the Data Visualization and Storytelling course I completed in Fall 2024. Throughout the semester, I worked on a variety of assignments and in-class projects that honed my skills in:
+This portfolio showcases my journey through the Data Visualization and Storytelling course I completed in Fall 2024. Throughout the semester, I worked on a variety of assignments and in-class activities that honed my skills in:
 
 - Data analysis: Extracting insights from raw datasets.
 - Visualization design: Crafting compelling visuals using tools like ArcGIS, Canvas, Flourish and Behance.
