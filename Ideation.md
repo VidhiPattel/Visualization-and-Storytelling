@@ -6,4 +6,4 @@ The Miroboard captures the results of a collaborative in-class activity aimed at
 ## Final Output
 The activity successfully fostered engagement and creativity by encouraging participants to think holistically about data presentation. By linking themes to characters, datasets, and visual tools, the Miroboard serves as a visual map of how information can be tailored for different audiences. The integration of delivery formats further enriches the approach, ensuring accessibility and relevance. Overall, this exercise provided a valuable framework for applying innovative methodologies in real-world projects, paving the way for impactful and dynamic communication strategies.
 
-![Ideation](assests/img/Ideation.jpg)
+![Ideation](assests/img/Ideation.png)
