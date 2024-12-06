@@ -1,5 +1,3 @@
-# Redesign Snow's Cholera Map
-
 ## Introduction
 For the assignment 2, we were asked to redesign one of the three maps – John Snow’s Cholera Map, Minard’s Map or Nightingale’s Map. I have chosen to redesign John 
 Snow’s Cholera map. John Snow's cholera map, created in 1854, is a groundbreaking example of using data to solve public health issues. During a cholera outbreak in 
