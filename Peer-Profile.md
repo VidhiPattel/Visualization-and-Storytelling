@@ -6,4 +6,4 @@ This activity is a peer profile exercise where students interact with their clas
 ## Final Output
 From the visual data representations, it is evident that the COVID-19 pandemic brought significant changes in people's lifestyles. Health consciousness seems to have increased post-COVID, highlighting an emphasis on well-being. Screen time allocation shifted towards entertainment and social media during the pandemic, while work demands remained relatively consistent. Fast-food consumption decreased during the pandemic, possibly due to lockdowns, and gradually increased post-COVID. Leisure time peaked during the pandemic but normalized afterward. This activity emphasizes how individuals adapt their habits in response to major global events and the importance of flexibility in lifestyle choices.
 
-!(assests/img/Peer-Profile.jpg)
+![Peer-Profile-Image](assests/img/Peer-Profile.jpg)
