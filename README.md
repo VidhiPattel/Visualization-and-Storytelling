@@ -44,3 +44,9 @@ This portfolio showcases my journey through the Data Visualization and Storytell
 - Then the data collected was plotted using different types of plot in a notebook.
 
 [Peer Profile](Peer-Profile.md)
+
+### Ideation
+- Collaborated on an interactive Miroboard activity to brainstorm innovative methods for visualizing and delivering information.
+- Focused on integrating themes, characters, and datasets with creative visual and delivery formats to enhance storytelling and audience engagement.
+
+[MiroBoard](Ideation.md)
