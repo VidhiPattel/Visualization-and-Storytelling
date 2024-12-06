@@ -1,5 +1,3 @@
-# Persuasive Infographic
-
 ## Introduction
 The infographic highlights the alarming trends in greenhouse gas (GHG) emissions driven by corporate activities and their significant role in the escalating climate crisis. Through visually engaging elements, the infographic explores the critical need for balancing corporate profitability with environmental responsibility. By spotlighting key emission leaders, their reversal of reduction commitments, and the cities at risk due to pollution, it conveys a powerful message: sustainability is no longer optional—action is essential for a healthier planet and a sustainable future.
 
