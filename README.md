@@ -36,3 +36,11 @@ This portfolio showcases my journey through the Data Visualization and Storytell
 - The infographic is createdd using Flourish and Canvas.
 
 [Data Story](Data-Story.md)
+
+## In-Class Activities
+
+### Peer Profile
+- This included asking some questions to the other classmate about how their daily activities changed during the Covid time.
+- Then the data collected was plotted using different types of plot in a notebook.
+
+[Peer Profile](Peer-Profile.md)
