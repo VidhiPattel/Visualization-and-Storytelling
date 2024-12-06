@@ -1,5 +1,3 @@
-# Storyboard
-
 ## Introduction
 For this assignment, we were tasked to focus on a human-centered data story. I have chosen this topic as climatic migration is an increasingly pressing issue as 
 rising sea levels and frequent flooding force hundreds of thousands of people to leave their homes. This narrative focuses on the impact of rising sea levels and 
