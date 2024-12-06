@@ -1,4 +1,4 @@
-title: [Visualization and Storytelling]
+title: Visualization and Storytelling Portfolio
 #logo: /assets/img/headshot_circle.png
 #description: Hi, Welcome to my Portfolio!
 
@@ -7,4 +7,3 @@ show_downloads: true
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-
